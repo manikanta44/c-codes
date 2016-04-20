@@ -8,7 +8,7 @@ void main()
     scanf("%s",a);
     printf("enter limits");
     scanf("%d%d",&n,&m);
-    for(i=n;i<m-1;i++)
+    for(i=n;i<m;i++)
     {
       printf("%c",a[i]);
     }getch();
