@@ -1,8 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
 main()
 {
-  int a[100],n,high,low,sum=0,sum1=0,c;
+  int a[100],n,high,low,sum=0,sum1=0,c,i;
   printf("enter the number of members ");
   scanf("%d",&n);
   for(i=0;i<n;i++)
